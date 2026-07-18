@@ -35,7 +35,7 @@
         #sensor-binding-cells = <0>;
         bindings = <&msc SCRL_DOWN>, <&msc SCRL_UP>;
 
-        tap-ms = <50>;
+        tap-ms = <60>;
     };
 
     scroll_encoder_h: scroll_encoder_h {
@@ -43,7 +43,7 @@
         #sensor-binding-cells = <0>;
         bindings = <&msc SCRL_RIGHT>, <&msc SCRL_LEFT>;
 
-        tap-ms = <50>;
+        tap-ms = <60>;
 };
 
     behaviors {
