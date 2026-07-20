@@ -61,8 +61,8 @@ layers:
   - $$mdi:keyboard-space$$
   - $$mdi:keyboard-space$$
   - $$mdi:keyboard-space$$
-  - {t: Lower, h: toggle}
   - {t: LAYER1, h: toggle}
+  - {t: Lower, h: toggle}
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-control$$
   Lower:
@@ -83,10 +83,10 @@ layers:
   - Q
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - E
-  - R
+  - $$mdi:mouse-right-click-outline$$
   - T
   - $$mdi:arrow-down-bold$$
-  - Y
+  - $$mdi:mouse-right-click-outline$$
   - U
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - O
@@ -97,9 +97,9 @@ layers:
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - $$mdi:mouse-left-click-outline$$
-  - $$mdi:mouse-right-click-outline$$
+  - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:arrow-left-bold$$
-  - H
+  - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
