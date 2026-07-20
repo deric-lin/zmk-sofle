@@ -108,7 +108,7 @@
         layer0 {
             bindings = <
 &kp ESC     &kp N1     &kp N2        &kp N3        &kp N4  &kp N5       &kp UP_ARROW     &kp N6     &kp N7     &kp N8     &kp N9           &kp N0      &kp BACKSPACE
-&kp TAB     &kp Q      &mmv MOVE_UP         &kp E         mkp RCLK   &kp T        &kp DOWN_ARROW   mkp RCLK      &kp U      &mmv MOVE_UP      &kp O            &kp P       &kp BSLH
+&kp TAB     &kp Q      &mmv MOVE_UP         &kp E         &mkp RCLK   &kp T        &kp DOWN_ARROW   &mkp RCLK      &kp U      &mmv MOVE_UP      &kp O            &kp P       &kp BSLH
 &kp CAPS    &mmv MOVE_LEFT      &mmv MOVE_DOWN         &mmv MOVE_RIGHT         &mkp LCLK   &trans        &kp LEFT_ARROW   &mkp LCLK      &mmv MOVE_LEFT      &mmv MOVE_DOWN      &mmv MOVE_RIGHT            &kp SEMI    &kp APOS
 &kp LSHFT   &kp Z      &kp X         &kp C         &kp V   &kp B        &kp RIGHT_ARROW  &kp N      &kp M      &kp COMMA  &kp DOT          &kp FSLH    &kp ENTER
 &kp C_MUTE  &kp LCTRL  &kp LEFT_GUI  &kp LEFT_ALT  &mo 1   &kp SPACE    &kp ENTER        &kp SPACE  &kp ENTER  &mo 2      &kp RIGHT_SHIFT  &kp DELETE
