@@ -328,8 +328,8 @@ rect.held, rect.combo.held {
 <g transform="translate(462, 35)" class="key keypos-6">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#Lower">
-<text x="0" y="-4" class="key tap layer-activator">Lower</text>
+<a href="#LAYER1">
+<text x="0" y="-4" class="key tap layer-activator">LAYER1</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(616, 35)" class="key keypos-7">
@@ -400,8 +400,8 @@ rect.held, rect.combo.held {
 <g transform="translate(462, 147)" class="key keypos-19">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#LAYER1">
-<text x="0" y="-4" class="key tap layer-activator">LAYER1</text>
+<a href="#LAYER3">
+<text x="0" y="-4" class="key tap layer-activator">LAYER3</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(616, 91)" class="key keypos-20">
@@ -468,8 +468,8 @@ rect.held, rect.combo.held {
 <g transform="translate(406, 91)" class="key keypos-32">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#LAYER2">
-<text x="0" y="-4" class="key tap layer-activator">LAYER2</text>
+<a href="#LAYER4">
+<text x="0" y="-4" class="key tap layer-activator">LAYER4</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(616, 147)" class="key keypos-33">
@@ -537,8 +537,8 @@ rect.held, rect.combo.held {
 <g transform="translate(518, 91)" class="key keypos-45">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#LAYER3">
-<text x="0" y="-4" class="key tap layer-activator">LAYER3</text>
+<a href="#LAYER2">
+<text x="0" y="-4" class="key tap layer-activator">LAYER2</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(616, 203)" class="key keypos-46">
